@@ -81,3 +81,5 @@ export default function AppRouter({ isAuthenticated }) {
     </Suspense>
   );
 }
+
+export const basename = "/Youtube-clone/";

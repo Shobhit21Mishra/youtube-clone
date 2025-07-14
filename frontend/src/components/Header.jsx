@@ -38,7 +38,7 @@ export default function Header() {
         </button>
         <Link to="/" className="flex items-center">
           <img
-            src="/images/youtube-header.png"
+            src="./public/images/youtube-header.png"
             alt="Logo"
             className="w-[90px] h-[65px] object-contain"
           />
