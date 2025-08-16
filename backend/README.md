@@ -60,7 +60,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/keshavMishra004/Youtube-clone.git
+git clone 
 cd YouTube-Clone/backend
 ```
 
@@ -167,6 +167,6 @@ Server will run at [http://localhost:5000](http://localhost:5000)
 
 ## 👤 Author
 
-Keshav Mishra 
-GitHub: [@keshavMishra004](https://github.com/keshavMishra004)
+Shobhit Mishra
+GitHub: [Shobhit21Mishra](https://github.com/Shobhit21Mishra)
 

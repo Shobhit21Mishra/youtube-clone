@@ -7,7 +7,7 @@ Media (videos, thumbnails, profile pictures) is managed using *Cloudinary*.
 
 ## 🔗 Live Demo & GitHub
 
-- **Live Demo**: []()
+- **Live Demo**: [https://drive.google.com/file/d/1a9MBDCYlqpXXt9kTlolct9Vrbjc9rSV1/view?usp=drive_link]()
 - **GitHub Repo**: []()
 
 ---
@@ -258,5 +258,5 @@ react, redux-toolkit, axios, react-router-dom, tailwindcss, vite, react-icons, r
 
 ## 🙋‍♂️ Author
 
-**KESHAV MISHRA**  
-GitHub: [](https://github.com/keshavMishra004)
+**SHOBHIT MISHRA**  
+GitHub: [Shobhit21Mishra](https://github.com/Shobhit21Mishra)

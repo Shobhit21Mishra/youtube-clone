@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
         <Sidebar />
         <main
           className={`
-            flex-1 min-h-screen p-4 mt-16 transition-all duration-300
+            flex-1 min-h-screen p-2 mt-16 transition-all duration-300
             ${isSidebarOpen ? 'lg:ml-64' : 'ml-0'}
           `}
         >

@@ -98,7 +98,7 @@ yotube-clone/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/keshavMishra004/youtube-clone.git
+git clone 
 cd YouTube-Clone/frontend
 ```
 
@@ -127,6 +127,6 @@ npm run build
 ## 🙋‍♂️ Author
 
 **Keshav Mishra**  
-GitHub: [@keshavMishra004](https://github.com/keshavMishra004)
+GitHub: [Shobhit21Mishra](https://github.com/Shobhit21Mishra)
 
 ---

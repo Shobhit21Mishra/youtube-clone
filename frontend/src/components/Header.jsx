@@ -38,9 +38,9 @@ export default function Header() {
         </button>
         <Link to="/" className="flex items-center">
           <img
-            src="./public/images/youtube-header.png"
+            src={`${import.meta.env.BASE_URL}images/youtube-header.png`}
             alt="Logo"
-            className="w-[90px] h-[65px] object-contain"
+            className="w-[70px] h-[40px] sm:w-[90px] sm:h-[65px] object-contain"
           />
         </Link>
       </div>
